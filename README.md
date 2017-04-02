@@ -1,2 +1,0 @@
-# grooveTrend
-grooveTrend landing page
